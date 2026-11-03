@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Creates and gate switch. if high voltage from two inputs, the led lights up.
 
 ## How to test
 
