@@ -13,8 +13,8 @@ Creates and gate switch. if high voltage from two inputs, the led lights up
 
 ## How to test
 
-Explain how to use your project
+use it for any And logic 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
